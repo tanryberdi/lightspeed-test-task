@@ -28,3 +28,10 @@ Temporary Items
 
 # IDE
 .idea/
+
+# executables - main
+*.exe
+main
+
+# txt files
+*.txt
